@@ -1,0 +1,27 @@
+body
+{
+	background-color: #151515;
+	min-width: 1310px;
+}
+#titre
+{
+	color: white;
+	font-size: 68px;
+	font-weight: bold;
+	font-family: "Calvin";
+	margin-left: 42px;
+	margin-top: 30px;
+}
+#fieldset0  
+{
+	z-index: 1;
+	position: relative;
+	 color: white;
+    background-image: url(gris.jpg);
+    width: 800px;
+    font-family: "Comic Sans MS";
+    border-top-right-radius: 103px;
+    border:solid;
+    border-width: 4px;
+    margin: auto;
+}
